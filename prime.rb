@@ -3,8 +3,7 @@ def prime?(int)
   test_array.each do |num|
     if num <= 1
       return false
-    elsif 
-    else
+    else 
     end
   end
 end
