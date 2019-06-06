@@ -4,7 +4,8 @@ def prime?(int)
     return false
   else
     test_array.each do |num|
-      if int 
+      if int % num == 0
+        return false
     end
   end
 end
