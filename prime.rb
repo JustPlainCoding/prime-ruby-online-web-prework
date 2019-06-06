@@ -4,6 +4,8 @@ def prime?(int)
     if num <= 1
       return false
     else 
+      if 
+      end
     end
   end
 end
