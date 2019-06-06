@@ -6,6 +6,8 @@ def prime?(int)
     test_array.each do |num|
       if int % num == 0
         return false
+      end
+      return true
     end
   end
 end
