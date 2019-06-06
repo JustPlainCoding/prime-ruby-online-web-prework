@@ -4,7 +4,7 @@ def prime?(int)
     if num <= 1
       return false
     else 
-      test_array.each
+      test_array.eac
       end
     end
   end
